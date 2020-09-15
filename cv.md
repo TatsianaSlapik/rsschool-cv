@@ -5,7 +5,7 @@
 
 >[slapik.tatiana@gmail.com](mailto:slapik.tatiana@gmail.com)
 
->+375 (29) 287-23-45
+>+375 (29) 287-24-60
 ------
 
 ### Technical skills
@@ -17,6 +17,7 @@
 1. HTML/CSS (Novice)
 1. MySQL (Novice)
 1. 1C (Advanced)
+
 ------
 
 ### Experience
