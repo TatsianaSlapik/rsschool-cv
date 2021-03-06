@@ -1,43 +1,49 @@
 # Tatsiana Slapik
+
 ## Junior Javascript Developer & Code Enthusiast
 
->[skype: tatiana71610](skype:tatiana71610)
+> [skype: tatiana71610](skype:tatiana71610)
 
->[slapik.tatiana@gmail.com](mailto:slapik.tatiana@gmail.com)
+> [slapik.tatiana@gmail.com](mailto:slapik.tatiana@gmail.com)
 
->+375 (29) 287-24-60
-------
+> +375 (29) 287-24-60
+
+---
 
 ### Technical skills
 
+1. Javascript (Novice)
+1. React (Novice)
 1. Java (Novice)
 1. Eclipse (Novice)
-1. Javascript (Novice)
 1. Git (Novice)
 1. HTML/CSS (Novice)
 1. MySQL (Novice)
 1. 1C (Advanced)
 
-------
+---
 
 ### Experience
 
-**Minsk meat factory** *Software engineer* __2013 till now__
+**Minsk meat factory** _Software engineer_ **2013 till 2021**
 Development and design the solutions based on 1C:Enterprise, 1C:Accounting, support of the existing solutions. Support of MSSQLServer database. Consulting on the future and ongoing plans. Support of the in-house canteen solution based on FoxPro.
 
 ### Projects
 
-* **Cost Report**
-     Java based application, that generates the report as an Excel file with the cost data formed in a special way. Data is fetched from different sources .dbf file, 1C:Enterprise services, and Excel files. The application has its own GUI based on SWT framework, where the user could set the period of time, what data the end user wants to get etc.
+- **Cost Report**
+  Java based application, that generates the report as an Excel file with the cost data formed in a special way. Data is fetched from different sources .dbf file, 1C:Enterprise services, and Excel files. The application has its own GUI based on SWT framework, where the user could set the period of time, what data the end user wants to get etc.
 
-* **Manager's portal**
-     An application based on Java, which serves the main entry point for many of the other application used inside the company e.g. folder links, file links, application links and shortcuts. 
+- **Manager's portal**
+  An application based on Java, which serves the main entry point for many of the other application used inside the company e.g. folder links, file links, application links and shortcuts.
 
-------
+---
 
 ### Education
-**Master (Mathematical and instrumental methods of economics)** __2012 to 2013__
-Yanka Kupala State University of Grodno	Economics And Management	Mathematical And Information Support Of Economic Systems
 
-**Specialist (Information systems and technologies in economics)** __2007 to 2012__
-Yanka Kupala State University of Grodno	Economics And Management	Mathematical And Information Support Of Economic Systems
+**Master (Mathematical and instrumental methods of economics)** **2012 to 2013**
+Yanka Kupala State University of Grodno Economics And Management Mathematical And Information Support Of Economic Systems
+
+**Specialist (Information systems and technologies in economics)** **2007 to 2012**
+Yanka Kupala State University of Grodno Economics And Management Mathematical And Information Support Of Economic Systems
+
+** English level: A2 **
